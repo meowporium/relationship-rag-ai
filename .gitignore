@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# Vector DB
+chroma_db/
+.chromadb/
+
+# Node
+node_modules/
+.next/
+
+# Logs
+*.log
